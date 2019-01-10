@@ -11,6 +11,10 @@ twilio官网地址是: [Twilio](https://www.twilio.com/)，具体的注册过程
 
 `pip install twilio flask`
 
+如果安装依赖比较慢，超时失败可以使用豆瓣的库(嗖嗖嗖的！)
+
+`pip install twilio flask -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com`
+
 ## 2.启动服务
 
 ### a. windows下
