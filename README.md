@@ -28,4 +28,4 @@ twilio官网地址是: [Twilio](https://www.twilio.com/)，具体的注册过程
 此时进程可以在后台挂起
 
 ### c.测试
-访问 http://localhost:8090/send 即可调用到发送短信的接口
+访问 http://localhost:8090/send 即可调用到发送短信的接口，必须是POST方式调用。
